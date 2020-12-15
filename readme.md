@@ -1,6 +1,7 @@
 ## to apply to kubernetes
 
 ```
+
 kubectl apply -f node-app-deployment.yaml -f node-app-service.yaml
 
 ```
